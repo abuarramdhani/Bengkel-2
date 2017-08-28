@@ -102,7 +102,7 @@ if($_GET) {
 <form action="?page=Add-Barang" method="post" name="frmadd" target="_self">
 <table width="100%" cellpadding="2" cellspacing="1" class="table-list" style="margin-top:0px;">
 	<tr>
-	  <th colspan="3">TAMBAH DATA BARANG </th>
+	  <th colspan="3">TAMBAH DATA BARANG dasdasd </th>
 	</tr>
 	<tr>
 	  <td width="15%"><b>Kode Barang</b></td>
