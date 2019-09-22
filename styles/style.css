@@ -21,9 +21,9 @@ body{
 	overflow:hidden;
 	margin:0px;
 	padding:0px; 
-	background-image:url(../images/logo.png); 
+	background-image:url(../images/aksi.gif); 
 	background-repeat:no-repeat; 
-	border-bottom:5px solid #DDDDDD;
+	border-bottom:5px solid red;
 }
 
 .table-main {
